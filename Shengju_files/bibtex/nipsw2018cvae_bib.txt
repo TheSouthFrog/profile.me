@@ -1,0 +1,6 @@
+@inproceedings{qianextending,
+  title={Extending the Capacity of CVAE for Face Synthesis and Modeling},
+  author={Qian, Shengju and Wu, Wayne and Liu, Yangxiaokang and Zhu, Beier and Shen, Fumin},
+  booktitle={NeurIPS Workshops},
+  year={2018}
+}
