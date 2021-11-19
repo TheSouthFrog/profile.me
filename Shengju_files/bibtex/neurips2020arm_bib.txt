@@ -1,0 +1,6 @@
+@inproceedings{qianextending,
+  title={Blending Anti-Aliasing into Vision Transformer},
+  author={Qian, Shengju and Shao, Hao and Zhu, Yi and Li, Mu and Jia, Jiaya},
+  booktitle={NeurIPS},
+  year={2021}
+}
